@@ -1,2 +1,2 @@
-# alanluz.github.io
+# http://alanluz.github.io
 Meu curriculo pessoal
